@@ -1,0 +1,8 @@
+{
+    "name": "cornerstone-framework-dist",
+    "version": "0.9.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/azamara/cornerstone-framework-dist"
+    }
+}
